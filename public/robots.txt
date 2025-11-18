@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://PsyMan47.github.io/tps-pages/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 0
+
+# Disallow admin or private paths (if any)
+# Disallow: /admin/
+# Disallow: /private/
