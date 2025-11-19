@@ -18,7 +18,7 @@ export default function StructuredData() {
                     "ratingCount": "1000"
                 },
                 "description": "Professional audio equalizer app for Android with 5 different equalizers, AutoEQ profiles for 1000+ headphones, multiband compressor, and advanced audio processing features.",
-                "screenshot": "https://PsyMan47.github.io/tps-pages/screenshot.png",
+                "screenshot": "https://x-Pepsy.github.io/tps-pages/screenshot.png",
                 "downloadUrl": "https://play.google.com/store/apps/details?id=com.pepsy.theperfectsound",
                 "featureList": [
                     "TPS All-in-One Equalizer",
@@ -39,7 +39,7 @@ export default function StructuredData() {
             {
                 "@type": "WebSite",
                 "name": "The Perfect Sound",
-                "url": "https://PsyMan47.github.io/tps-pages",
+                "url": "https://x-Pepsy.github.io/tps-pages",
                 "description": "Official website for The Perfect Sound - Professional Audio Equalizer for Android",
                 "publisher": {
                     "@type": "Organization",

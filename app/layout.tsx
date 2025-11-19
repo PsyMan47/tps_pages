@@ -11,7 +11,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://PsyMan47.github.io/tps-pages'), // Update with your actual URL
+  metadataBase: new URL('https://x-Pepsy.github.io/tps-pages'), // Update with your actual URL
   title: {
     default: "The Perfect Sound - Professional Audio Equalizer for Android",
     template: "%s | The Perfect Sound"
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://PsyMan47.github.io/tps-pages",
+    url: "https://x-Pepsy.github.io/tps-pages",
     title: "The Perfect Sound - Professional Audio Equalizer for Android",
     description: "5 professional equalizers, AutoEQ profiles for 1000+ headphones, and advanced audio controls. Transform your Android audio experience.",
     siteName: "The Perfect Sound",
@@ -95,7 +95,7 @@ export const metadata: Metadata = {
   },
   manifest: "/tps_pages/site.webmanifest",
   alternates: {
-    canonical: "https://PsyMan47.github.io/tps-pages",
+    canonical: "https://x-Pepsy.github.io/tps-pages",
   },
   category: "technology",
 };
